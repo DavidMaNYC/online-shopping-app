@@ -1,4 +1,4 @@
-# Bite Take-Home Project
+# Online Shopping Application
 
 This is a simple web application that allows users to order items online. It includes features like viewing a list of items, adding items to a cart, viewing cart details, and completing orders. The application also includes an order history feature that allows users to view past orders.
 
