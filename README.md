@@ -50,12 +50,12 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 - **components**: Contains all the React components used in the application
 
-  - **Cart.js**: Component to view and manage items in the cart
-  - **Home.js**: Component to view the list of items for sale
-  - **ItemDetail.js**: Component to view details of an individual item
-  - **OrderHistory.js**: Component to view the list of past orders
-  - **OrderHistoryDetail.js**: Component to view details of a specific order from the order history
-  - **OrderSummary.js**: Component to view the summary of the current order before completion
+  - **Cart.jsx**: Component to view and manage items in the cart
+  - **Home.jsx**: Component to view the list of items for sale
+  - **ItemDetail.jsx**: Component to view details of an individual item
+  - **OrderHistory.jsx**: Component to view the list of past orders
+  - **OrderHistoryDetail.jsx**: Component to view details of a specific order from the order history
+  - **OrderSummary.jsx**: Component to view the summary of the current order before completion
 
 - **context**: Contains the context and reducer for managing the cart and order history state
 
