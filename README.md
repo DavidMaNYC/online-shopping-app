@@ -32,7 +32,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
    ```bash
    git clone git@github.com:[username]/online-shopping-app.git
-   cd bite-take-home
+   cd online-shopping-app
    ```
 
 2. Install dependencies:
